@@ -1,11 +1,11 @@
-# TP 5
+# Plush SHOP
 
 ## Mise en place du TP
 
   Cette mise en place est similaire à celle du TP précédent. Le dossier `tp3` contient une structure telle que celle décrite dans ce [document](https://intranet.fil.univ-lille.fr/2020/04/09/nodejs-et-npm/).  
   1. Dans le dossier `tp5/` exécutez
 ```bash  	  
-tp5$  npm install
+Plush-Shop$  npm install
 ```  
   2. Exécutez la commande `npm run build` pour créer le dossier `./dist/` et construire un premier *bundle*
   3. Vous pouvez ouvrir le fichier `dist/index.html`, pour vérifier que tout s'est bien déroulé en consultant la console (<kbd>Ctrl Shift K</kbd>) dans laquelle vous devez lire le message `le bundle a été généré`.  
@@ -16,7 +16,7 @@ tp5$  npm install
     Comme dans le TP précédent, profitez des facilités offertes par Webpack pendant la phase de développement pour construire le bundle et visualiser les résultats "à chaud" en démarrant le serveur de développement :Après chaque modification, il faut générer le <q>nouveau</q> <i>bundle</i>, toujours à l'aide de la commande <code>npm run build</code> et c'est le fichier **`dist`**`/index.html` qu'il faut consulter pour avoir le résultat
 
 ```bash
-tp5$  npm run dev-server
+Plush-Shop$  npm run dev-server
 ```
 
   **C'est la solution que l'on vous conseille d'adopter.**
@@ -29,7 +29,7 @@ tp5$  npm run dev-server
 
 Tout a ete realisé.
 Pour executer le projet il faut:
-- se placer dans le fichier tp5/
+- se placer dans le fichier Plush-Shop/
 - mettre la commande npm install
 - mettre la commande npm run dev-server
 - mettre la commande npm run build
