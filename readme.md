@@ -1,9 +1,9 @@
-# Plush SHOP
+# Plush SHOP - LICENCE 2
 
 ## Mise en place du TP
 
   Cette mise en place est similaire à celle du TP précédent. Le dossier `tp3` contient une structure telle que celle décrite dans ce [document](https://intranet.fil.univ-lille.fr/2020/04/09/nodejs-et-npm/).  
-  1. Dans le dossier `tp5/` exécutez
+  1. Dans le dossier `Plush-Shop/` exécutez
 ```bash  	  
 Plush-Shop$  npm install
 ```  
